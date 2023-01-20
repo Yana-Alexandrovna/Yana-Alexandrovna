@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
- *** Look, who’s here! ***
+Look, who’s here! 
 <div id="header" align="center">  
 <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="30px]"/>
 </h1>
