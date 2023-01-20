@@ -24,3 +24,4 @@ Look, who’s here!
    :fire: My Stats :
   </div>
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=Yana-Alexandrovna&border_radius=5)](https://git.io/streak-stats)" width="600" height="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yana-Alexandrovna&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)" width="600" height="300"/>
